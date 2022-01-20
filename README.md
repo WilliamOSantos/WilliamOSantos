@@ -9,7 +9,6 @@
 <div align="center">
   <a href="https://github.com/WilliamOSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamOSantos&show_icons=true&theme=algolia&count_private-true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamOSantos&layout=compact&langs_count=5&theme=algolia"/>
 </div>
   </div>
 <div style="display: inline_block"><br>
